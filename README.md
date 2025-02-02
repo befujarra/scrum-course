@@ -4,6 +4,12 @@ Projeto de uma plataforma de ensino focada em Scrum, desenvolvida para auxiliar 
 
 ![image](https://github.com/user-attachments/assets/908bb7d4-923a-42fd-bac5-22d350d860ed).
 
+![image](https://github.com/user-attachments/assets/ac64c6b6-68fc-4a91-bfa7-c219560efbf1)
+
+![image](https://github.com/user-attachments/assets/029409a5-0d29-4294-90c6-97731ce8ca1c)
+
+
+
 ## ABP - 1DSM - 2024-1 - Código de Exemplo
 
 O código é formado pelas pastas:
